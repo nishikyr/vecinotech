@@ -4,7 +4,6 @@ import { RouterLink } from '@angular/router';
 
 /**
  * Componente de página de bienvenida pública de VecinoTech
- * Muestra el hero, características principales y call-to-actions
  */
 @Component({
   selector: 'app-bienvenida',
